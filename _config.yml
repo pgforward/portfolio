@@ -9,14 +9,14 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
+owner: Peter Forward
+email: petejenny@hotmail.com
 facebook_username:
 twitter_username:
-github_username:
+github_username: pgforward
 address:
-  - line:
-  - line:
+  - line: Address Line One
+  - line: Address Line Two
   # Feel free to add more lines here 
 telephone:
 copyright:
